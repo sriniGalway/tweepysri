@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-data= """Yoga for Beginners
-Mountain Pose,Downward Dog,warrior,Tree pose,Bridge Pose,Triangle,Seated Twist,Cobra,Pigeon pose,Crow Pose,Child's pose."""
-
+data= """Eating wholesome food offered first to the Divine, with one-fourth of the stomach kept empty, is mitahara. 
+- Hatha pradipika I:59 #yoga"""
 image= ""

@@ -11,7 +11,7 @@ status_log_file = directory + '/status.log'
 ### set up oauth
 oauth_json_file = os.path.expanduser('oauth.json')
 if not os.path.exists(oauth_json_file):
-    print_error('no ' + oauth_json_file)
+    print 'no ' + oauth_json_file
     exit(1)
 
 oauth = json.loads(open(oauth_json_file, 'r').read())
